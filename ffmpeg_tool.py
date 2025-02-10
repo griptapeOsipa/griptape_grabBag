@@ -11,6 +11,10 @@ fledged Griptape extension with improved structure, modularity, and integration.
 
 You'll need to have FFmpeg and FFprobe installed for these tools to function properly.
 
+Author: Jason Osipa
+GitHub: https://github.com/griptapeOsipa
+License: Apache-2.0
+
 Example usage:
 
 import random
